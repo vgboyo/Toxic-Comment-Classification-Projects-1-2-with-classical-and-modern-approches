@@ -1,0 +1,2 @@
+# Toxic-Comment-Classification-Projects-1-2-with-classical-and-modern-approches
+Goal : Detect toxic comments (binary: toxic vs non‑toxic).     Two phases: Classical ML with bag‑of‑words (TF‑IDF + LR/SVM/RF) and a keyword baseline.   Modern NLP with word embeddings (GloVe), Transformers (toxic‑bert), and prompt engineering (zero‑shot, role, few‑shot). Focus: performance, compute cost, explainability, bias, and privacy.
